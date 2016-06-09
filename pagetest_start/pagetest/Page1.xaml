@@ -1,0 +1,36 @@
+﻿<Page x:Class="pagetest.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      Title="Page1"
+      xmlns:k="http://schemas.microsoft.com/kinect/2014"
+      xmlns:kinectV2="clr-namespace:pagetest"
+      d:DesignHeight="300"
+      mc:Ignorable="d" Width="478.286">
+    <StackPanel Orientation="Vertical">
+        <k:KinectRegion x:Name="kinectRegion" Height="300">
+
+
+            <Grid>
+                <TextBlock Margin="10,10,0,0"
+        			HorizontalAlignment="Left"
+        			VerticalAlignment="Top"
+        			Text="MainMenu"
+        			TextWrapping="Wrap" />
+
+                <Button x:Name="btnNavigateWithObject"
+        			Margin="178,213,0,0"
+        			HorizontalAlignment="Left"
+        			VerticalAlignment="Top"
+        			Click="btnNavigateWithObject_Click"
+        			Content="START" Height="62" Width="122" />
+                <Button x:Name="button1" Content="1" HorizontalAlignment="Left" Margin="28,60,0,0" VerticalAlignment="Top" Width="83" Click="button1_Click" Height="44"/>
+                <Button x:Name="button2" Content="2" HorizontalAlignment="Left" Margin="135,60,0,0" VerticalAlignment="Top" Width="83" Click="button2_Click" Height="44"/>
+                <Button x:Name="button3" Content="3" HorizontalAlignment="Left" Margin="251,60,0,0" VerticalAlignment="Top" Width="83" Click="button3_Click" Height="44"/>
+                <Button x:Name="button4" Content="4" HorizontalAlignment="Left" Margin="376,60,0,0" VerticalAlignment="Top" Width="83" Click="button4_Click" Height="44"/>
+            </Grid>
+
+        </k:KinectRegion>
+    </StackPanel>
+</Page>

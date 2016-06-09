@@ -1,0 +1,137 @@
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\bin\Debug\pagetest.exe.config
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\MainWindow.baml
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\Page1.baml
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\MainWindow.g.cs
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\Page1.g.cs
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\App.g.cs
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.g.resources
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\bin\Debug\pagetest.exe
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\bin\Debug\pagetest.pdb
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.exe
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\pagetest.pdb
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\Page2.baml
+c:\users\214002\documents\visual studio 2015\Projects\pagetest\pagetest\obj\Debug\Page2.g.cs
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.exe
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.pdb
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\Page1.baml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\Page2.baml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\Page1.g.cs
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\Page2.g.cs
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\App.g.cs
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\MainWindow.g.cs
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.lref
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\pagetest.exe
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\pagetest.pdb
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\MainWindow.baml
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.g.resources
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+C:\Users\214002\Documents\Visual Studio 2015\Projects\pagetest_kinect\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\pagetest.exe.config
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\Page2.baml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\MainWindow.g.cs
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\Page1.g.cs
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\Page2.g.cs
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\App.g.cs
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.lref
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.dll
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.dll
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.xml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.xml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\MainWindow.baml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\Page1.baml
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.g.resources
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+S:\卒業研究\SC\チーム小林\pagetest_kinect\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\pagetest.exe.config
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Tools.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\Page2.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\MainWindow.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\Page1.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\Page2.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\App.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest_MarkupCompile.lref
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\MainWindow.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\Page1.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.g.resources
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+S:\卒業研究\SC\チーム小林\0602\pagetest_kinect\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\pagetest.exe.config
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.exe
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.pdb
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\pagetest.exe
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\pagetest.pdb
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.dll
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Tools.dll
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.xml
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Tools.xml
+Z:\卒業研究\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\Page2.baml
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\MainWindow.g.cs
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\Page1.g.cs
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\Page2.g.cs
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\App.g.cs
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest_MarkupCompile.lref
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\MainWindow.baml
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\Page1.baml
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.g.resources
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+Z:\卒業研究\pagetest_start\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\pagetest.exe.config
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\pagetest.exe
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\pagetest.pdb
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Tools.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Tools.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.csprojResolveAssemblyReference.cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\Page2.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\MainWindow.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\Page1.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\Page2.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\App.g.cs
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest_MarkupCompile.cache
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest_MarkupCompile.lref
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\MainWindow.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\Page1.baml
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.g.resources
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.Properties.Resources.resources
+S:\卒業研究\SC\チーム小林\0602\pagetest_start\pagetest\obj\Debug\pagetest.csproj.GenerateResource.Cache
