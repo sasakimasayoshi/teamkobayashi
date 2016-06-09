@@ -1,0 +1,22 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect2BodySampleVB" 
+        Height="424" Width="512"
+        Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <Grid Background="Black">
+            <TextBlock Text="{Binding StatusElement}" />
+            <Viewbox Stretch="Uniform" HorizontalAlignment="Center">
+                <Grid  Height="424" Width="512">
+                    <Image Source="{Binding BodyImageElement}" />
+                </Grid>
+            </Viewbox>
+            <StackPanel VerticalAlignment="Bottom"
+                       Background="Transparent">
+                <TextBlock Margin="10,5,10,5" TextWrapping="Wrap" Foreground="White"
+                           Text="This is preliminary software and/or hardware and APIs are preliminary and subject to change." />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

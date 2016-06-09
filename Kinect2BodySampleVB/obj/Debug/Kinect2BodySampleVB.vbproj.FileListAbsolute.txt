@@ -1,0 +1,9 @@
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\bin\Debug\Kinect2BodySampleVB.exe.config
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Views\MainWindow.baml
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Views\MainWindow.g.vb
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Application.g.vb
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Kinect2BodySampleVB_MarkupCompile.cache
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Kinect2BodySampleVB.g.resources
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Kinect2BodySample.Resources.resources
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Kinect2BodySampleVB.vbproj.GenerateResource.Cache
+C:\Users\oomoto\Downloads\C# and VB\Kinect2BodySampleVB\obj\Debug\Kinect2BodySampleVB.xml
